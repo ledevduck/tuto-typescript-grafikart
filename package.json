@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ledevduck/tuto-typescript-grafikart/issues"
   },
-  "homepage": "https://github.com/ledevduck/tuto-typescript-grafikart#readme"
+  "homepage": "https://github.com/ledevduck/tuto-typescript-grafikart#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
