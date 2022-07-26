@@ -1,0 +1,20 @@
+{
+  "name": "tuto-typescript-grafikart",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PLjwdMgw5TTLX1tQ1qDNHTsy_lrkCt4VW3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledevduck/tuto-typescript-grafikart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ledevduck/tuto-typescript-grafikart/issues"
+  },
+  "homepage": "https://github.com/ledevduck/tuto-typescript-grafikart#readme"
+}
