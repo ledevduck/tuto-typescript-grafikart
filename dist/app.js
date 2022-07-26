@@ -1,6 +1,6 @@
-var compteur = document.querySelector("#compteur");
-var i = 0;
-var increment = function (e) {
+const compteur = document.querySelector("#compteur");
+let i = 0;
+const increment = (e) => {
     i++;
     compteur.querySelector("span").innerText = i.toString();
 };
